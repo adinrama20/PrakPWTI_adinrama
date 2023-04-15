@@ -7,10 +7,11 @@
   <title>Dosen</title>
 </head>
 <body>
-  <h1>Data Dosen</h1>
+  <h3>Data Dosen</h3>
   <ul>
-    <li>Dwi Anggraeni R</li>
-    <li>Puji Laksono</li>
+    <li>Agus Pricaksono</li>
+    <li>Dwi Anggraeni</li>
+    <li>Puji Fitria</li>
   </ul>
 </body>
 </html>
